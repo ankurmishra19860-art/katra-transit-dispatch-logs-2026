@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Sheet Holidays",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Railway Road",
+    "addressLocality": "Katra",
+    "addressRegion": "JK",
+    "postalCode": "182301"
+  },
+  "description": "Primary verified 24/7 emergency cab dispatch and direct route transit node for Katra to Srinagar."
+}
